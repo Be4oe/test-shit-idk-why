@@ -6,7 +6,7 @@ local VERSION = 7
 -- CONFIG
 --==================================================
 
-local SCRIPT_URL = "https://github.com/Be4oe/test-shit-idk-why/blob/main/3.lua"
+local SCRIPT_URL = "https://raw.githubusercontent.com/Be4oe/test-shit-idk-why/refs/heads/main/3.lua"
 local BOOST_VELOCITY = Vector3.new(130, -100, 0)
 
 local PATH_SPEED = 35
