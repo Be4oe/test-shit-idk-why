@@ -91,15 +91,15 @@ _G[CONTROLLER_NAME] = controller
 -- MOVEMENT SETTINGS
 --==================================================
 
-local HEIGHT = 12
-local SPEED = 80
+local HEIGHT = 20
+local SPEED = 120
 
 local MIN_TARGET_Y = -50
 local MAX_DISTANCE_FROM_PLAYER = 3000
-local RESCAN_INTERVAL = 0.5
+local RESCAN_INTERVAL = 0.1
 
-local ZIGZAG_WIDTH = 12
-local ZIGZAG_SWEEPS = 6
+local ZIGZAG_WIDTH = 20
+local ZIGZAG_SWEEPS = 12
 
 local PORTAL_HEIGHT = 10
 
